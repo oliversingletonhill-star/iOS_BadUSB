@@ -12,12 +12,12 @@ COMMAND N
 DELAY 500
 
 REM Enter Recipient Phone Number
-STRING "phone number here"
+STRING "07359966423"
 DELAY 500
 TAB
 
 REM Enter Message Content
-STRING "text message content here"
+STRING "hey this is my number save me in your phone"
 DELAY 500
 
 REM Send Message
